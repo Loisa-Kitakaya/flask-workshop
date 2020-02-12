@@ -51,7 +51,7 @@ pip install - requirements.txt
 
 ##  Resources
 **N/B** I may not have looked at many of this resources, so if some contain incorrect/outdated info am not to blame, you should refer to multiple sources.
-### Flaskhttps://blog.tecladocode.com/learn-python-password-encryption-with-flask/
+### Flask
 - [Official Flask Documentation](https://flask.palletsprojects.com/)
 - [Miguel blog](https://blog.miguelgrinberg.com/category/Flask)
     - [https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
